@@ -18,28 +18,11 @@ The dataset consists of three main files:
 2.  **Guest Satisfaction**: What factors influence guest satisfaction, and how can hosts improve their ratings?
 3.  **Availability Trends**: What are the trends in listing availability, and how can hosts manage their bookings more effectively?
 
-**Installation**
 
-To run this project, you'll need Python and the following libraries:
-
--   pandas
--   numpy
--   matplotlib
--   seaborn
--   wordcloud
--   nltk
-
-You can install the necessary libraries using pip:
-
-bash
-
-Copy code
-
-pip install pandas numpy matplotlib seaborn wordcloud nltk
 
 **Usage**
 
-1.  Clone the repository.
+1.  Create the repository.
 2.  Place the datasets (listings.csv, reviews.csv, and calendar.csv) in the same directory as the Jupyter Notebook.
 3.  Run the Jupyter Notebook to perform the analysis and visualize the results.
 
