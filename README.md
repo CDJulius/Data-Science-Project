@@ -58,3 +58,4 @@ The dataset consists of three main files:
 -   Word cloud for review comments.
 -   Line and bar plots for availability trends.
 
+[Blog Post]# https://medium.com/@craig.julius/discovering-seattles-airbnb-secrets-what-the-data-reveals-9d36b35741ff
